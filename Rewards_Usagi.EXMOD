@@ -1,0 +1,1619 @@
+{
+    "name": "Rewards_Usagi",
+    "author": "KiichigoUsagi",
+    "version": "1.0",
+    "fileName": "Rewards_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Horde-D_HordeWave.json",
+            "File_Items": [
+                {
+                    "Name": "Forest_Wave_01",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Conifer_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 25,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Alpha_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Forest_Wave_02",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Jaguar",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 20,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Jaguar_Boss",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Forest_Wave_03",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Bear",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 2,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 12,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "BearCub",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 6,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Arctic_Wave_01",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Snow_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 25,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Alpha_Snow_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Arctic_Wave_02",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "SnowLeopard",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 20,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "SnowLeopard_Alpha",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Arctic_Wave_03",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Polar_Bear",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 1,
+                            "NumberToSpawnAtATime": {
+                                "X": 2,
+                                "Y": 2
+                            },
+                            "TotalToSpawn": 6,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 3,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Polar_Bear_Cub",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 6,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Desert_Wave_01",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Desert_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 4,
+                                "Y": 6
+                            },
+                            "TotalToSpawn": 25,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Alpha_Desert_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Desert_Wave_02",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Lion_F",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 20,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Cougar_Alpha",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Desert_Wave_03",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Scorpion",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {
+                                "(Value=\"BaseMovementSpeed_+%\")": 25
+                            },
+                            "LevelOverride": 50,
+                            "NumberToSpawnAtATime": {
+                                "X": 5,
+                                "Y": 8
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 10,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Scorpion_Boss_Summon",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 10,
+                            "InitialSpawnDelay": 6,
+                            "TimeBetweenSpawns": {
+                                "X": 8,
+                                "Y": 10
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Grassland_Wave_01",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Conifer_Wolf",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 25,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Wild_Boar",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Grassland_Wave_02",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Jaguar",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 20,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Bat_Dog",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Grassland_Wave_03",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Bear",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 2,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 12,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "BearCub",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Swamp_Wave_01",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Swamp_Bird",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 25,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Jaguar",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Swamp_Wave_02",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Komodo",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 20,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Crocodile",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Swamp_Wave_03",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Swamp_Slug",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 2,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 12,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 5,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Komodo",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Lava_Wave_01",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Wild_Boar",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 5,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 3,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "LavaBroodlingWorldSpawn",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 5,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 3,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Lava_Wave_02",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Lava_Komodo",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "TotalToSpawn": 20,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 15,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 7,
+                                "Y": 10
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Desert_Striker",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 1
+                            },
+                            "TotalToSpawn": 2,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 1,
+                            "InitialSpawnDelay": 20,
+                            "TimeBetweenSpawns": {
+                                "X": 20,
+                                "Y": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Lava_Wave_03",
+                    "Creatures": [
+                        {
+                            "Creature": {
+                                "RowName": "Rock_Dog",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 2,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 12,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        },
+                        {
+                            "Creature": {
+                                "RowName": "Wild_Boar",
+                                "DataTableName": "D_AISetup"
+                            },
+                            "Epic": {
+                                "RowName": "None",
+                                "DataTableName": "D_EpicCreatures"
+                            },
+                            "AdditionalStats": {},
+                            "LevelOverride": 25,
+                            "NumberToSpawnAtATime": {
+                                "X": 1,
+                                "Y": 3
+                            },
+                            "TotalToSpawn": 10,
+                            "ExtraSpawnCountPerAdditionalNearbyPlayer": 5,
+                            "InitialSpawnDelay": 2,
+                            "TimeBetweenSpawns": {
+                                "X": 10,
+                                "Y": 12
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemRewards.json",
+            "File_Items": [
+                {
+                    "Name": "Horde_Mode_Base",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Meta_Resource",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 50,
+                            "MaxRandomStackCount": 500,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Condensed_Enzymes",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 10,
+                            "MaxRandomStackCount": 20,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Horde_Mode_Base_Inert",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Condensed_Enzymes",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 15,
+                            "MaxRandomStackCount": 30,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Red_Exotics_Raw",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Red_Exotic_Seed",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 50,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Exotic_Red_Raw",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 2,
+                            "MaxRandomStackCount": 15,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Exotic_Plant_Wild",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Red_Exotic_Seed",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 5,
+                            "MaxRandomStackCount": 15,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Exotic_Red_Raw",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 20,
+                            "MaxRandomStackCount": 50,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Horde_Mode_Red",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Exotic_Red_Raw",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 15,
+                            "MaxRandomStackCount": 150,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Condensed_Enzymes",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 5,
+                            "MaxRandomStackCount": 10,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "WildBeehive_Loot",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Honeycomb",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 3,
+                            "MaxRandomStackCount": 6,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "BaseWildHoneycombYield_+%",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Queen_Bee",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 33.29999923706055,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "BaseQueenBeeDropChance_%",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Worker_Bee",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 3,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Coconut_Grown",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Coconut_young",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 3,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Coconut_Seed",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 0.75,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 3,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Bramble_Grown",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Bramble_Seed",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 0.75,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "Bramble",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": false,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Exotic_Creature_Loot",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Meta_Resource",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 3,
+                            "MaxRandomStackCount": 9,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "RedExotic_Creature_Loot",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Exotic_Red",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 3,
+                            "MaxRandomStackCount": 9,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Sheep_Head",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Sheep_Head",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Chicken_Head",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Chicken_Head",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "Chicken_Loot",
+                    "Rewards": [
+                        {
+                            "Item": {
+                                "RowName": "Egg",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 50,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 1,
+                            "MaxRandomStackCount": 1,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        },
+                        {
+                            "Item": {
+                                "RowName": "White_Meat",
+                                "DataTableName": "D_ItemTemplate"
+                            },
+                            "DropChance": 100,
+                            "DropChanceAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "RequiredStatToDrop": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "MinRandomStackCount": 2,
+                            "MaxRandomStackCount": 4,
+                            "bRewardsScale": true,
+                            "StackAdditiveStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            },
+                            "StackMultiplicativeStat": {
+                                "RowName": "None",
+                                "DataTableName": "D_Stats"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Stats-D_ProspectStats.json",
+            "File_Items": [
+                {
+                    "Name": "NPC_Increase_Hard",
+                    "WorldStats": {
+                        "(Value=\"WorldNPCMaximumHealth_+%\")": 50,
+                        "(Value=\"WorldNPCMovementSpeed_+%\")": 20,
+                        "(Value=\"WorldNPCAggressivePerceptionRadius_+%\")": 40,
+                        "(Value=\"WorldNPCNeutralPerceptionRadius_+%\")": 20,
+                        "(Value=\"WorldNPCPassivePerceptionRadius_+%\")": 20,
+                        "(Value=\"WorldNPCMeleeAttack_+%\")": 40
+                    }
+                },
+                {
+                    "Name": "NPC_Increase_Hard_SpawnRates",
+                    "WorldStats": {
+                        "(Value=\"WorldSpawnerWolfSpawnRate_+%\")": 100,
+                        "(Value=\"WorldSpawnerLionSpawnRate_+%\")": 100,
+                        "(Value=\"WorldSpawnerScorpionSpawnRate_+%\")": 100
+                    }
+                },
+                {
+                    "Name": "Respawn_Zero",
+                    "WorldStats": {
+                        "(Value=\"WorldPlayerRespawnMaximumCount_+\")": 1
+                    }
+                },
+                {
+                    "Name": "Inert_Geysers",
+                    "WorldStats": {
+                        "(Value=\"WorldGeyersAreInert_?\")": 0
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+

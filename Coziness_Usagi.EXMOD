@@ -1,0 +1,540 @@
+{
+    "name": "Coziness_Usagi",
+    "author": "KiichigoUsagi",
+    "version": "1.0",
+    "fileName": "Coziness_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Bed_Bedroll",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 80,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 600,
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Bed_Wood",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 100,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 750,
+                        "(Value=\"BaseComfortLevel_+\")": 10
+                    }
+                },
+                {
+                    "Name": "Bed_Interior_Wood",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 140,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 1000,
+                        "(Value=\"BaseComfortLevel_+\")": 14
+                    }
+                },
+                {
+                    "Name": "Fireplace",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 12
+                    }
+                },
+                {
+                    "Name": "Kit_Wall_Torch",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Kit_Floor_Torch",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Wood_Table",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Fireplace_Chimney_Ext",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Fireplace_Chimney_Cap",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Fireplace_Chimney_Cap_Half",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Wood_Sign_Small",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Brazier",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Rug_AlphaWolf",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 12
+                    }
+                },
+                {
+                    "Name": "Rug_Bear",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 12
+                    }
+                },
+                {
+                    "Name": "Rug_PolarBear",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 14
+                    }
+                },
+                {
+                    "Name": "Bear_Trophy",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 12
+                    }
+                },
+                {
+                    "Name": "PolarBear_Trophy",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 14
+                    }
+                },
+                {
+                    "Name": "Jaguar_Black_Trophy",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 14
+                    }
+                },
+                {
+                    "Name": "FirePit",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Meta_Cot_Printed",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 120,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 1200,
+                        "(Value=\"BaseComfortLevel_+\")": 20
+                    }
+                },
+                {
+                    "Name": "Basic_Wall_Light",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Basic_Ceiling_Light",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Rustic_Bench",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_Bookshelf",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_Cabinet",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_Candles",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Rustic_CoffeeTable",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_CouchLarge",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_CouchMedium",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_DiningChair",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_LivingChair",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_NightStand",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Rustic_Pot",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_Stool",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Rustic_TableLarge",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Rustic_TableRound",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Rustic_Wardrobe",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rustic_Bed",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 130,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 800,
+                        "(Value=\"BaseComfortLevel_+\")": 16
+                    }
+                },
+                {
+                    "Name": "Large_Advanced_Aquarium",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 20
+                    }
+                },
+                {
+                    "Name": "Rabbit_Statue_Wood",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Rabbit_Statue_Stone",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 12
+                    }
+                },
+                {
+                    "Name": "Carved_Table_Round",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 10
+                    }
+                },
+                {
+                    "Name": "Carved_Table_6Seater",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 10
+                    }
+                },
+                {
+                    "Name": "Carved_Table_10Seater",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 12
+                    }
+                },
+                {
+                    "Name": "Carved_Chair_Dining",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Carved_Chair_Living",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Carved_Chair_Living_2Seater",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Carved_Stool",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Carved_Nightstand",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 3
+                    }
+                },
+                {
+                    "Name": "Carved_Bookshelf",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Carved_Bed",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 160,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 800,
+                        "(Value=\"BaseComfortLevel_+\")": 30
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Cut_Gold",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Cut_Oxite",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Burst_Copper",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Burst_Gold",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Burst_Oxite",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Monolith_Copper",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Monolith_Gold",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Monolith_Oxite",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Rock_Copper",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Rock_Gold",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Geode_Lamp_Rock_Oxite",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Painting_Wood",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Painting_Dark",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Painting_Metal",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Painting_Gold",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Painting_Gold_Wood",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "Painting_Scroll",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 8
+                    }
+                },
+                {
+                    "Name": "AlienFossil_Pottery",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "AlienFossil_Conch",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Raw_Wood_Sign",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Raw_Wood_Sign_Trunk_A",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Raw_Wood_Sign_Trunk_B",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Raw_Wood_Lamp",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 6
+                    }
+                },
+                {
+                    "Name": "Rabbit_Trophy",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 30
+                    }
+                },
+                {
+                    "Name": "Arctic_Rabbit_Trophy",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 30
+                    }
+                },
+                {
+                    "Name": "Pygmy_Lop_Trophy",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 25
+                    }
+                },
+                {
+                    "Name": "Metal_Candle",
+                    "AdditionalStats": {
+                        "(Value=\"BaseComfortLevel_+\")": 4
+                    }
+                },
+                {
+                    "Name": "Metal_Bed",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 145,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 900,
+                        "(Value=\"BaseComfortLevel_+\")": 25
+                    }
+                },
+                {
+                    "Name": "Brutalist_Bed",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 145,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 900,
+                        "(Value=\"BaseComfortLevel_+\")": 25
+                    }
+                },
+                {
+                    "Name": "Gold_Bed",
+                    "AdditionalStats": {
+                        "(Value=\"BaseSleepQuality_%\")": 150,
+                        "(Value=\"BaseSleepModifierDurationSeconds_+\")": 900,
+                        "(Value=\"BaseComfortLevel_+\")": 25
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Modifiers-D_ModifierStates.json",
+            "File_Items": [
+                {
+                    "Name": "Well_Rested",
+                    "GrantedStats": {
+                        "(Value=\"BaseExperience_+%\")": 50,
+                        "(Value=\"BaseMaximumHealth_+%\")": 10,
+                        "(Value=\"BaseHealthRegen_+%\")": 50,
+                        "(Value=\"BaseMaximumStamina_+%\")": 10,
+                        "(Value=\"BaseStaminaRegen_+%\")": 25,
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+

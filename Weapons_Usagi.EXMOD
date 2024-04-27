@@ -1,0 +1,357 @@
+{
+    "name": "Weapons_Usagi",
+    "author": "",
+    "version": "1.0",
+    "fileName": "Weapons_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_Bow_Shengong_Alpha",
+                    "AdditionalStats": {
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 50,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 25,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Beta",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowChargeSpeed_+%\")": 15,
+                        "(Value=\"BaseMovementSpeed_+%\")": 15,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Charlie",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowChargeSpeed_+%\")": 15,
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 25,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 30,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Delta",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowChargeSpeed_+%\")": 25,
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 40,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 30,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Shengong_Echo",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowChargeSpeed_+%\")": 25,
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 40,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 30,
+                        "(Value=\"HighlightShotProjectile_?\")": 1,
+                        "(Value=\"BaseElectricDamage_+%\")": 150,
+                        "(Value=\"BaseFireDamage_+%\")": 150,
+                        "(Value=\"BasePoisonDamage_+%\")": 150,
+                        "(Value=\"BaseFrostDamage_+%\")": 150
+                    }
+                },
+                {
+                    "Name": "Meta_Bow_Larkwell",
+                    "AdditionalStats": {
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 100,
+                        "(Value=\"BaseBowChargeSpeed_+%\")": 25,
+                        "(Value=\"BaseArrowProjectileSpeed_+%\")": 50,
+                        "(Value=\"BaseBowAimDownSightsSpeed_+%\")": 25,
+                        "(Value=\"BaseBowReloadSpeed_+%\")": 25,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Mission_Prototype_Laser",
+                    "Interactable": {
+                        "RowName": "Deployable_Power_Toggle_Only"
+                    },
+                    "Resource": {
+                        "RowName": "Mission_Prototype_Laser"
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_A",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 50,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_B",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 75,
+                        "(Value=\"BaseHardenedPointDamage_+%\")": 100,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 100,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 150,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_C",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 75,
+                        "(Value=\"BaseHardenedPointDamage_+%\")": 100,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 100,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 150,
+                        "(Value=\"HighlightShotProjectile_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Meta_Crossbow_Inaris_D",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 75,
+                        "(Value=\"BaseHardenedPointDamage_+%\")": 100,
+                        "(Value=\"BaseBowCriticalDamage_+%\")": 100,
+                        "(Value=\"BaseBowProjectileDamage_+%\")": 150,
+                        "(Value=\"HighlightShotProjectile_?\")": 1,
+                        "(Value=\"BaseFireDamage_+%\")": 35,
+                        "(Value=\"BaseFrostDamage_+%\")": 35,
+                        "(Value=\"BasePoisonDamage_+%\")": 35,
+                        "(Value=\"BaseElectricDamage_+%\")": 35
+                    }
+                },
+                {
+                    "Name": "Titanium_Crossbow",
+                    "AdditionalStats": {
+                        "(Value=\"BaseAttacksCauseSlow_%\")": 50,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100
+                    }
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Electroshock",
+                    "AdditionalStats": {
+                        "(Value=\"BaseElectricDamage_+\")": 150,
+                        "(Value=\"BaseAttacksCauseElectroshock_%\")": 25
+                    }
+                },
+                {
+                    "Name": "Meta_Bolt_Set_Larkwell_Electroshock",
+                    "AdditionalStats": {
+                        "(Value=\"BaseElectricDamage_+\")": 150,
+                        "(Value=\"BaseAttacksCauseElectroshock_%\")": 25
+                    }
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Piercing",
+                    "AdditionalStats": {
+                        "(Value=\"BaseCriticalDamage_+%\")": 50,
+                        "(Value=\"BaseHardenedPointDamage_+%\")": 50,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100
+                    }
+                },
+                {
+                    "Name": "Meta_Bolt_Set_Larkwell_Piercing",
+                    "AdditionalStats": {
+                        "(Value=\"BaseCriticalDamage_+%\")": 50,
+                        "(Value=\"BaseHardenedPointDamage_+%\")": 50,
+                        "(Value=\"BaseHardenedPointPenetration_%\")": 100
+                    }
+                },
+                {
+                    "Name": "Dirt_Mound",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Seed"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Seed"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Hitable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Masonry_Bench_T3",
+                    "Resource": {
+                        "RowName": "Masonry_Bench"
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Ballistic.json",
+            "File_Items": [
+                {
+                    "Name": "Flint_Arrow",
+                    "Damage": 90
+                },
+                {
+                    "Name": "Steel_Arrow",
+                    "Damage": 135
+                },
+                {
+                    "Name": "Aluminium_Arrow",
+                    "Damage": 150
+                },
+                {
+                    "Name": "Titanium_Arrow",
+                    "Damage": 200
+                },
+                {
+                    "Name": "Meta_Arrow_Shengong",
+                    "Damage": 75
+                },
+                {
+                    "Name": "Meta_Arrow_Inaris",
+                    "Damage": 100
+                },
+                {
+                    "Name": "Meta_Arrow_Inaris_Bravo",
+                    "Damage": 90
+                },
+                {
+                    "Name": "Meta_Arrow_Printed",
+                    "Damage": 95
+                },
+                {
+                    "Name": "Meta_Arrow_Larkwell_Standard",
+                    "Damage": 200
+                },
+                {
+                    "Name": "Meta_Arrow_Larkwell_Ballistic",
+                    "Damage": 120
+                },
+                {
+                    "Name": "Meta_Arrow_Larkwell_Bleed",
+                    "Damage": 150
+                },
+                {
+                    "Name": "Meta_Arrow_Larkwell_Tazer",
+                    "Damage": 120
+                },
+                {
+                    "Name": "Meta_Arrow_Larkwell_Whistling",
+                    "Damage": 100
+                },
+                {
+                    "Name": "Metal_Bolt",
+                    "Damage": 125
+                },
+                {
+                    "Name": "Copper_Bolt",
+                    "Damage": 250
+                },
+                {
+                    "Name": "Steel_Bolt",
+                    "Damage": 400,
+                    "BreakChance": 0.05
+                },
+                {
+                    "Name": "Obsidian_Bolt",
+                    "Damage": 750
+                },
+                {
+                    "Name": "Iron_Wood_Bolt",
+                    "Damage": 500
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Standard",
+                    "Damage": 400,
+                    "BreakChance": 0.10000000596046448
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Explosive",
+                    "Damage": 300
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Electroshock",
+                    "Damage": 450
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Piercing",
+                    "Damage": 600,
+                    "BreakChance": 0.10000000596046448
+                },
+                {
+                    "Name": "Meta_Bolt_Larkwell_Whistling",
+                    "Damage": 400,
+                    "BreakChance": 0.10000000298023224
+                },
+                {
+                    "Name": "Steel_Bolt_variationA",
+                    "Damage": 400
+                },
+                {
+                    "Name": "Platinum_Bolt",
+                    "Damage": 500,
+                    "BreakChance": 0.02000000149011612
+                },
+                {
+                    "Name": "Cold_Steel_Bolt",
+                    "Damage": 550,
+                    "BreakChance": 0.05000000149011612
+                },
+                {
+                    "Name": "Titanium_Bolt",
+                    "Damage": 1000,
+                    "BreakChance": 0.0100000149011612
+                },
+                {
+                    "Name": "Black_Wolf_Arrow",
+                    "Damage": 50
+                },
+                {
+                    "Name": "Obsidian_Arrow",
+                    "Damage": 80
+                },
+                {
+                    "Name": "Cold_Steel_Arrow",
+                    "Damage": 100
+                },
+                {
+                    "Name": "Iron_Wood_Arrow",
+                    "Damage": 95
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+

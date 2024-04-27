@@ -1,0 +1,40 @@
+{
+    "name": "Crafting_Usagi",
+    "author": "",
+    "version": "1.0",
+    "fileName": "Crafting_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Crafting-D_ProcessorRecipes.json",
+            "File_Items": [
+                {
+                    "Name": "Concrete_Mix",
+                    "RequiredMillijoules": 2000
+                },
+                {
+                    "Name": "Refined_Wood",
+                    "RequiredMillijoules": 2000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Deep_Mining_Drill_Electric",
+                    "AdditionalStats": {
+                        "(Value=\"BaseDeepMiningDrillSpeed_+%\")": 100
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+

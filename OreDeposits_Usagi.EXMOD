@@ -1,0 +1,106 @@
+{
+    "name": "OreDeposits_Usagi",
+    "author": "",
+    "version": "1.0",
+    "fileName": "OreDeposits_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "World-D_OreDeposit.json",
+            "Defaults": {
+                "ResourceType": {
+                    "RowName": "None",
+                    "DataTableName": "D_ItemTemplate"
+                },
+                "HighlightableRow": {
+                    "RowName": "None",
+                    "DataTableName": "D_Highlightable"
+                },
+                "RVTNodeMaterial_CF": "None",
+                "RVTNodeMaterial_DC": "None",
+                "NodeMaterial_CF": "None",
+                "NodeMaterial_DC": "None",
+                "RockMaterial": "None",
+                "MinOreAvailable": 1000,
+                "MaxOreAvailable": 1000,
+                "MiningTimeSeconds": 5
+            },
+            "File_Items": [
+                {
+                    "Name": "Exotic",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Iron",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Gold",
+                    "MiningTimeSeconds": 4
+                },
+                {
+                    "Name": "Copper",
+                    "MiningTimeSeconds": 2
+                },
+                {
+                    "Name": "Silicon",
+                    "MiningTimeSeconds": 2
+                },
+                {
+                    "Name": "Coal",
+                    "MiningTimeSeconds": 2
+                },
+                {
+                    "Name": "Sulfur",
+                    "MiningTimeSeconds": 2
+                },
+                {
+                    "Name": "Aluminium",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Mission_STYX_D_Research2",
+                    "MiningTimeSeconds": 4
+                },
+                {
+                    "Name": "Super_Cooled_Ice",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Exotic_Red_Raw",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Salt",
+                    "MiningTimeSeconds": 1
+                },
+                {
+                    "Name": "Titanium",
+                    "MiningTimeSeconds": 5
+                },
+                {
+                    "Name": "Platinum",
+                    "MiningTimeSeconds": 4
+                },
+                {
+                    "Name": "Clay",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Scoria",
+                    "MiningTimeSeconds": 3
+                },
+                {
+                    "Name": "Obsidian",
+                    "MiningTimeSeconds": 4
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

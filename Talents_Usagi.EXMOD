@@ -1,0 +1,745 @@
+{
+    "name": "Talents_Usagi",
+    "author": "KiichigoUsagi",
+    "version": "1.0",
+    "fileName": "Talents_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "Changes Talents by increasing Values across the board",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Talents-D_Talents.json",
+            "File_Items": [
+                {
+                    "Name": "Husbandry_MountSpeed",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureMovementSpeed_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_TameUpkeep",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureWaterConsumption_+%\")": -30,
+                                "(Value=\"BaseTamedCreatureFoodConsumption_+%\")": -30
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureWaterConsumption_+%\")": -45,
+                                "(Value=\"BaseTamedCreatureFoodConsumption_+%\")": -45
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_Stamina",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureMaximumStamina_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureMaximumStamina_+%\")": 40
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_TameCarryingCapacity",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureWeightCapacity_+%\")": 5
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureWeightCapacity_+%\")": 15
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureWeightCapacity_+%\")": 30
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_RidingExposureResist",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMountedExposureResistance_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMountedExposureResistance_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_TameHealth",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureMaximumHealth_+%\")": 20,
+                                "(Value=\"BaseTamedCreatureHealthRegen_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureMaximumHealth_+%\")": 40,
+                                "(Value=\"BaseTamedCreatureHealthRegen_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseTamedCreatureMaximumHealth_+%\")": 60,
+                                "(Value=\"BaseTamedCreatureHealthRegen_+%\")": 72
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_ParentDamage",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseStealthDamage_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_Threat",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMountedAnimalThreatModifier_+%\")": -20,
+                                "(Value=\"BaseTamedCreatureThreatModifier_+%\")": -20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMountedAnimalThreatModifier_+%\")": -40,
+                                "(Value=\"BaseTamedCreatureThreatModifier_+%\")": -40
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMountedAnimalThreatModifier_+%\")": -60,
+                                "(Value=\"BaseTamedCreatureThreatModifier_+%\")": -60
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Husbandry_ForagingYield",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseForagingHarvestingRewards_+%\")": 5
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseForagingHarvestingRewards_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseForagingHarvestingRewards_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tools_Pickaxe_Radius",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMiningRadius_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMiningRadius_+%\")": 40
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tools_Combat_Axes",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseAxeMeleeDamage_+%\")": 150,
+                                "(Value=\"BaseAxeAttackSpeed_+%\")": 25,
+                                "(Value=\"BaseAxeStaminaActionCost_+%\")": 75,
+                                "(Value=\"BaseAxeItemWear_+%\")": 150
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tools_Axe_Durability",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseAxeItemWear_+%\")": -10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseAxeItemWear_+%\")": -15
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseAxeItemWear_+%\")": -25
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tools_Axe_Felling_Damage",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFellingDamage_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFellingDamage_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFellingDamage_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Tools_Combat_Axes2",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseAxeItemWear_+%\")": -25,
+                                "(Value=\"BaseAxeStaminaActionCost_+%\")": -25,
+                                "(Value=\"BaseFellingRewards_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Exploration_Solo_Xp",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseExperience_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseExperience_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Movement",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMovementSpeed_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMovementSpeed_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Health_Regen",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseHealthRegen_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseHealthRegen_+%\")": 100
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Stamina_Regen",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseStaminaRegen_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseStaminaRegen_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Crafting_Basics",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFellingRewards_+%\")": 25,
+                                "(Value=\"BaseMiningStoneRewards_+%\")": 25,
+                                "(Value=\"BaseHarvestingRewards_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Damage_Reduction",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BasePhysicalDamageResistance_%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BasePhysicalDamageResistance_%\")": 15
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BasePhysicalDamageResistance_%\")": 25
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Exploration_Weight_Capacity",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseWeightCapacity_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseWeightCapacity_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseWeightCapacity_+%\")": 40
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Produce_Max_Stamina",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMaximumStamina_+%\")": 5
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMaximumStamina_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMaximumStamina_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Produce_Melee_Damage",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMeleeDamage_+%\")": 5
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMeleeDamage_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMeleeDamage_+%\")": 15
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Melee_Damage",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMeleeDamage_+%\")": 15
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMeleeDamage_+%\")": 30
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Extra_Resources",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseForagingHarvestingRewards_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseForagingHarvestingRewards_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Felling_Rewards",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFellingRewards_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFellingRewards_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Mining_Rewards",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMiningRewards_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseMiningRewards_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Solo_Base_Maintenance",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseCarryingFirewhackerStaminaRegen_+%\")": 50,
+                                "(Value=\"BaseRepairToolActionHoldTime_+%\")": -20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Minigame_Speed",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingGameFishSpeed_+%\")": -25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingGameFishSpeed_+%\")": -50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Exposure_Resistance",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseExposureResistance_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseExposureResistance_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Lure_wear_Rate",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseLureItemWear_+%\")": -20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseLureItemWear_+%\")": -40
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseLureItemWear_+%\")": -60
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Fish_Weight",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseCaughtFishWeight_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Fish_Length",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseCaughtFishLength_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Saltwater_Quaility",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseCaughtSaltwaterFishQuality_+%\")": 15
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Freshwater_Quality",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseCaughtFreshwaterFishQuality_+%\")": 15
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Fish_Food_Buff",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishFoodModifierEffectiveness_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishFoodModifierEffectiveness_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Quaility_In_Storm",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseCaughtFishQualityInStorm_+%\")": 30
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Golden_Zone_Size_2",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingCaptureZoneSize_+%\")": 10
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingCaptureZoneSize_+%\")": 25
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingCaptureZoneSize_+%\")": 50
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Uncommon_Chance",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseChanceToCatchUncommonFish_+%\")": 25,
+                                "(Value=\"BaseChanceToCatchCommonFish_+%\")": -5
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseChanceToCatchUncommonFish_+%\")": 50,
+                                "(Value=\"BaseChanceToCatchCommonFish_+%\")": -15
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Rare_Unique_Chance",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseChanceToCatchRareFish_+%\")": 25,
+                                "(Value=\"BaseChanceToCatchUniqueFish_+%\")": 25,
+                                "(Value=\"BaseChanceToCatchCommonFish_+%\")": -5
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseChanceToCatchRareFish_+%\")": 50,
+                                "(Value=\"BaseChanceToCatchUniqueFish_+%\")": 50,
+                                "(Value=\"BaseChanceToCatchCommonFish_+%\")": -15
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fishing_Golden_Zone_Size",
+                    "Rewards": [
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingCaptureZoneSize_+%\")": 20
+                            },
+                            "GrantedFlags": []
+                        },
+                        {
+                            "GrantedStats": {
+                                "(Value=\"BaseFishingCaptureZoneSize_+%\")": 40
+                            },
+                            "GrantedFlags": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

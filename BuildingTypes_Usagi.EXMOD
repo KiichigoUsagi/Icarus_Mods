@@ -1,0 +1,368 @@
+{
+    "name": "BuildingTypes_Usagi",
+    "author": "",
+    "version": "1.0",
+    "fileName": "BuildingTypes_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Building-D_BuildingStability.json",
+            "File_Items": [
+                {
+                    "Name": "Wood_Beam",
+                    "MaxHardStability": 20,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 2.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 30,
+                    "LowestGreenStability": 10,
+                    "YellowStability": 5,
+                    "HighestRedStability": 2.199999809265137
+                },
+                {
+                    "Name": "Wood_Frame",
+                    "MaxHardStability": 20,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 2.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 30,
+                    "LowestGreenStability": 10,
+                    "YellowStability": 5,
+                    "HighestRedStability": 2.199999809265137
+                },
+                {
+                    "Name": "Wood_General",
+                    "MaxHardStability": 20,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 2.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 30,
+                    "LowestGreenStability": 10,
+                    "YellowStability": 5,
+                    "HighestRedStability": 2.199999809265137
+                },
+                {
+                    "Name": "Interior_Wood_General",
+                    "BuildingTier": 4,
+                    "MaxHardStability": 30,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 40,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Interior_Wood_Frame",
+                    "BuildingTier": 4,
+                    "MaxHardStability": 30,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 40,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Interior_Wood_Beam",
+                    "BuildingTier": 4,
+                    "MaxHardStability": 30,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 40,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Stone_General",
+                    "BuildingTier": 5,
+                    "MaxHardStability": 40,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 50,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Stone_Beam",
+                    "BuildingTier": 5,
+                    "MaxHardStability": 40,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 50,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Stone_Frame",
+                    "BuildingTier": 5,
+                    "MaxHardStability": 40,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 50,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Concrete_General",
+                    "MaxHardStability": 80,
+                    "HardStabilityMaxRange": 6,
+                    "MaxAnchoredStability": 80
+                },
+                {
+                    "Name": "Concrete_Beam",
+                    "MaxHardStability": 80,
+                    "MaxAnchoredStability": 80
+                },
+                {
+                    "Name": "Concrete_Frame",
+                    "MaxHardStability": 80,
+                    "MaxAnchoredStability": 80
+                },
+                {
+                    "Name": "Iron_General",
+                    "MaxHardStability": 60,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 70,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Iron_Beam",
+                    "MaxHardStability": 60,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 70,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Iron_Frame",
+                    "MaxHardStability": 60,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 70,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Glass_General",
+                    "BuildingTier": 7,
+                    "MaxHardStability": 50,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 60,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Thatch_General",
+                    "BuildingTier": 2,
+                    "MaxHardStability": 10,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 0.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 10,
+                    "LowestGreenStability": 5,
+                    "YellowStability": 3,
+                    "HighestRedStability": 0.199999809265137
+                },
+                {
+                    "Name": "Thatch_Beam",
+                    "BuildingTier": 2,
+                    "MaxHardStability": 10,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 0.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 10,
+                    "LowestGreenStability": 5,
+                    "YellowStability": 3,
+                    "HighestRedStability": 0.1999998092651377
+                },
+                {
+                    "Name": "Thatch_Frame",
+                    "BuildingTier": 2,
+                    "MaxHardStability": 10,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 0.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 10,
+                    "LowestGreenStability": 5,
+                    "YellowStability": 3,
+                    "HighestRedStability": 0.199999809265137
+                },
+                {
+                    "Name": "Clay_Brick_General",
+                    "MaxHardStability": 40,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 40,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Clay_Brick_Beam",
+                    "MaxHardStability": 50,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 40,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Clay_Brick_Frame",
+                    "MaxHardStability": 40,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 5.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 40,
+                    "LowestGreenStability": 20,
+                    "YellowStability": 10,
+                    "HighestRedStability": 5.199999809265137
+                },
+                {
+                    "Name": "Ice_General",
+                    "BuildingTier": 1,
+                    "MaxHardStability": 10,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 1.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 10,
+                    "LowestGreenStability": 5,
+                    "YellowStability": 3,
+                    "HighestRedStability": 1.199999809265137
+                },
+                {
+                    "Name": "Ice_Beam",
+                    "BuildingTier": 1,
+                    "MaxHardStability": 10,
+                    "HardStabilityMaxRange": 6,
+                    "MinimumUnstableStability": 1.300000190734863,
+                    "StabilityPassMultiplier": 0.6660000085830688,
+                    "MaxAnchoredStability": 10,
+                    "LowestGreenStability": 5,
+                    "YellowStability": 3,
+                    "HighestRedStability": 1.1999998092651372
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-Types-D_BuildingTypes.json",
+            "File_Items": [
+                {
+                    "Name": "Interior_Wood",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 5,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 50,
+                        "(Value=\"BaseWindDamageResistance_%\")": 50,
+                        "(Value=\"BaseMeleeDamageResistance_%\")": 25
+                    }
+                },
+                {
+                    "Name": "Stone",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 10,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 80,
+                        "(Value=\"BaseWindDamageResistance_%\")": 75,
+                        "(Value=\"BaseMeleeDamageResistance_%\")": 50
+                    }
+                },
+                {
+                    "Name": "Concrete",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 15,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 90,
+                        "(Value=\"BaseWindDamageResistance_%\")": 90,
+                        "(Value=\"BaseMeleeDamageResistance_%\")": 75
+                    }
+                },
+                {
+                    "Name": "Iron",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 3,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 75,
+                        "(Value=\"BaseWindDamageResistance_%\")": 95,
+                        "(Value=\"BaseMeleeDamageResistance_%\")": 75
+                    }
+                },
+                {
+                    "Name": "Aluminium",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 15,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 50,
+                        "(Value=\"BaseWindDamageResistance_%\")": 100,
+                        "(Value=\"BaseMeleeDamageResistance_%\")": 60
+                    }
+                },
+                {
+                    "Name": "Glass",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 15,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 50,
+                        "(Value=\"BaseWindDamageResistance_%\")": 85,
+                        "(Value=\"BaseMeleeDamageResistance_%\")": 25
+                    }
+                },
+                {
+                    "Name": "Scoria",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 10,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 75,
+                        "(Value=\"BaseWindDamageResistance_%\")": 80
+                    }
+                },
+                {
+                    "Name": "Clay_Brick",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 10,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 70,
+                        "(Value=\"BaseWindDamageResistance_%\")": 85
+                    }
+                },
+                {
+                    "Name": "Scoria_Brick",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 10,
+                        "(Value=\"BaseTreeCollisionDamageResistance_%\")": 80,
+                        "(Value=\"BaseWindDamageResistance_%\")": 85
+                    }
+                },
+                {
+                    "Name": "Ice",
+                    "Stats": {
+                        "(Value=\"BaseBuildingInsulation_+\")": 5
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

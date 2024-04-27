@@ -1,0 +1,101 @@
+{
+    "name": "Saddles_Usagi",
+    "author": "KiichigoUsagi",
+    "version": "1.0",
+    "fileName": "Saddles_Usagi",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Saddle_Standard_Bag",
+                    "AdditionalStats": {
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart",
+                    "AdditionalStats": {
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart_Plough",
+                    "AdditionalStats": {
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart_Water",
+                    "AdditionalStats": {
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart_Harvest",
+                    "AdditionalStats": {
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Equippable.json",
+            "File_Items": [
+                {
+                    "Name": "Saddle_Standard",
+                    "GrantedStats": {
+                        "(Value=\"BaseMountCargoSlots_+\")": 8,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 1
+                    }
+                },
+                {
+                    "Name": "Saddle_Cargo",
+                    "GrantedStats": {
+                        "(Value=\"BaseMountCargoSlots_+\")": 24,
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
+                        "(Value=\"BaseWeightCapacity_+\")": 600,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 2
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart",
+                    "GrantedStats": {
+                        "(Value=\"BaseMountCargoSlots_+\")": 60,
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
+                        "(Value=\"BaseWeightCapacity_+\")": 2000,
+                        "(Value=\"BaseMovementSpeed_+\")": -10,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 6,
+                        "(Value=\"IsPullingCart_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart_Farming",
+                    "GrantedStats": {
+                        "(Value=\"BaseMountCargoSlots_+\")": 40,
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
+                        "(Value=\"BaseMovementSpeed_+\")": -10,
+                        "(Value=\"IsPullingCart_?\")": 1
+                    }
+                },
+                {
+                    "Name": "Saddle_Cart_Watering",
+                    "GrantedStats": {
+                        "(Value=\"BaseMountCargoSlots_+\")": 5,
+                        "(Value=\"IsSaddleCargoUseOnly_?\")": 0,
+                        "(Value=\"BaseMovementSpeed_+\")": -10,
+                        "(Value=\"IsPullingCart_?\")": 1
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+
